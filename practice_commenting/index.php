@@ -33,6 +33,12 @@ if ($submit){
             <input type="submit" name="submit" value="comment">
             
             <input type="button" name="button" value="Yes">
+            <input type="button" name="button" value="Yes">
+            <input type="button" name="button" value="Yes">
+            <input type="button" name="button" value="Yes">
+            <input type="button" name="button" value="Yes">
+            <input type="button" name="button" value="Yes">
+            
             
         </form>
         <?php
