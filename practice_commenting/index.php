@@ -32,7 +32,7 @@ if ($submit){
             <textarea name="comment" type="text"></textarea>
             <input type="submit" name="submit" value="comment">
             
-            
+            <input type="button" name="button" value="Yes">
             
         </form>
         <?php
